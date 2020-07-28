@@ -1,2 +1,2 @@
-# Coal--EDA
+# CoalEDA
 Exploring the coal data
